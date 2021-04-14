@@ -41,3 +41,6 @@ This repository contains all the source code for creating your own 64-bit os fro
       ```
       "path\to\qemu\qemu-system-x86_64" -cdrom dist/x86_64/kernel.iso
       ```
+      
+###  OUTPUT
+<img src="D:\Nust Lectures\4th Semister\CAO\OS Assign"/>
