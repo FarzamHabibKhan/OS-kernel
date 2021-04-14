@@ -5,7 +5,6 @@ This repository contains all the source code for creating your own 64-bit os fro
 
 ### Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework use
 * <a href="https://code.visualstudio.com/">VSCode </a> (text editor)
 * <a href="https://www.docker.com/">Docker </a> (for creating our build-environment)
 * <a href="https://www.qemu.org/">Qemu </a> (for OS emulation)
