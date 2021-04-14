@@ -43,4 +43,4 @@ This repository contains all the source code for creating your own 64-bit os fro
       ```
       
 ###  OUTPUT
-<img src="D:\Nust Lectures\4th Semister\CAO\OS Assign"/>
+<img src="D:\Nust Lectures\4th Semister\CAO\OS Assign\nust-logo.jpeg"/>
